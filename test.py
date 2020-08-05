@@ -1,0 +1,1 @@
+test = float(input("enter a float: "))
