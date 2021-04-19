@@ -56,3 +56,4 @@
 > GET https://graph.facebook.com/me?Authorization=Bearer EAAbMUuU6mtkBALM4QqMfoBbCDL8cEODZBPQktvhK4SjRPpv1PkGht2HyaapR2bL7yc0Di2xOr84l6LiE1w3Bx4Ve0K7iQfZAhwHwDfbWogCX2qvFMBQ1XXZCF1HtZC9vUIqZBC50CB6wZChV82k2mrdRVwL4pDD7kZD&fields=name,picture
 
 **JSON Response with Username, and an URL for the picture**
+> {"name": "String: USERNAME","picture": {"data": {"height": int,"is_silhouette": bool,"url": "URL: FB_PROFILE_PIC_URL","width": int}},"id": "int USERID"}
