@@ -1,7 +1,7 @@
-AppID: 1913506265471705
-AppSecret: 989fb49bf1853d2410afe53bfbea5c33
-URL: http://localhost:5000/
-URLenc: http%3A%2F%2Flocalhost%3A5000%2F
+- AppID: AppID_EnvVar
+- AppSecret: AppSecret_EnvVar
+- URL: http://localhost:5000/
+- URLenc: http%3A%2F%2Flocalhost%3A5000%2F
 
 # Facebook Oauth Manual Authentication Flow
 
